@@ -1,4 +1,5 @@
-# namaste react
+# React E-commerce-App
+I have used Parcel as my Bundler since its easy to use and its SUPERFAST.
 
 # parcel
 - Dev Build
@@ -17,3 +18,9 @@
 - Error Handling
 - Https
 - Tree Shaking - removes unused codes
+
+# how to start the App
+-npm install
+-npm start
+
+# if you get any issue please inform
